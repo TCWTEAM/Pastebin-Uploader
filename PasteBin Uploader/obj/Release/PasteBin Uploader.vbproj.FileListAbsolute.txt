@@ -1,0 +1,10 @@
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\bin\Release\PasteBin Uploader.exe.config
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\bin\Release\PasteBin Uploader.exe
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\bin\Release\PasteBin Uploader.pdb
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\bin\Release\PasteBin Uploader.xml
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin_Uploader.Form1.resources
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin_Uploader.Resources.resources
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.vbproj.GenerateResource.Cache
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.exe
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.xml
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.pdb

@@ -8,3 +8,4 @@ D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin U
 D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.exe
 D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.xml
 D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.pdb
+D:\Documents\projects\PasteBin Uploader\PasteBin Uploader\obj\Release\PasteBin Uploader.vbprojResolveAssemblyReference.cache
